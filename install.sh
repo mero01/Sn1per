@@ -55,6 +55,7 @@ chmod +x $DIR/XSSTracer/xsstracer.py
 chmod +x $DIR/MassBleed/massbleed
 chmod +x $DIR/MassBleed/heartbleed.py
 chmod +x $DIR/MassBleed/openssl_ccs.pl
+chmod +x $DIR/SuperMicro-Password-Scanner/supermicro_scan.sh
 rm -f /usr/bin/sniper
 rm -f /usr/bin/goohak
 rm -f /usr/bin/xsstracer
